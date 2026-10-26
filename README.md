@@ -1,6 +1,6 @@
 # Hola 👋, soy José Jiménez
 
-Soy estudiante de 10° semestre de Ingeniería de Sistemas en la Universidad del Norte y cuento con seis meses de experiencia laboral en el sector tecnológico. Actualmente, me encuentro construyendo un puente entre la programación y la infraestructura, orientando mi perfil profesional hacia el ecosistema **DevOps**.
+Soy estudiante de 10° semestre de Ingeniería de Sistemas en la Universidad Tecnologico comfenalco y cuento con seis meses de experiencia laboral en el sector tecnológico. Actualmente, me encuentro construyendo un puente entre la programación y la infraestructura, orientando mi perfil profesional hacia el ecosistema **DevOps**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-jimenez-80a1b8357/)
 
